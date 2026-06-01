@@ -1,0 +1,9 @@
+{
+  "Bot": "bot token",
+  "Alts": ["scanning tokens"],
+  "Bloxlink": "bloxlink token",
+  "RoVer": "rover token",
+  "Rcon": "rcon pswd",
+  "Pollinations_Referral": "polli ref",
+  "Pollinations_Token": "polli tok"
+}
